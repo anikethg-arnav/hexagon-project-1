@@ -1,0 +1,9 @@
+python-dotenv
+streamlit
+langchain-core
+langchain-community
+langchain-groq
+langchain-openai
+mysql-connector-python
+sqlalchemy
+
